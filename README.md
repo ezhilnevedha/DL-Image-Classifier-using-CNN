@@ -1,5 +1,6 @@
 # DL-Convolutional Deep Neural Network for Image Classification
-
+### NAME: EZHIL NEVEDHA K
+### REG.NO: 212223230055
 ## AIM
 To develop a convolutional neural network (CNN) classification model for the given dataset.
 
@@ -67,17 +68,21 @@ def train_model(model, train_loadr, num_epochs=10):
 
 ## Training Loss per Epoch
 
-Include the Training Loss per epoch
+<img width="463" height="233" alt="image" src="https://github.com/user-attachments/assets/e360ea92-a4d8-4bd4-865f-29fa27116307" />
+
 
 ## Confusion Matrix
 
-Include confusion matrix here
+<img width="681" height="600" alt="image" src="https://github.com/user-attachments/assets/bda38cc1-6824-4cd6-9142-0c5d5d2ea3c9" />
+
 
 ## Classification Report
-Include classification report here
+<img width="470" height="326" alt="image" src="https://github.com/user-attachments/assets/3588e5a3-35c8-4d69-a316-78e40d1ca0c1" />
+
 
 ### New Sample Data Prediction
-Include your sample input and output here
+<img width="441" height="432" alt="image" src="https://github.com/user-attachments/assets/ff6a8ab1-6afb-4886-bbf5-789c582065ef" />
+
 
 ## RESULT
-Include your result here
+Thus, CNN model has been developed
